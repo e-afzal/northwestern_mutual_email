@@ -1,0 +1,4 @@
+Wrapper background (light blue): #eaf5fc
+Button background (dark yellow): #ffb81c
+Careers with purpose title color: #0e497b
+Open roles link (skyblue): #83d4f1
