@@ -1,11 +1,11 @@
 Video thumbnail:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131198/video-thumbnail_wleee0.png
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697208435/video-thumbnail_dejyxb.png
 
 Moms:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131198/support_icmj2v.png
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697208438/support_ebvjqt.png
 
 Mental Health:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131198/mental-health_lyyva7.png
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697208435/mental-health_huesbj.png
 
 Talent community:
 https://res.cloudinary.com/ddeima5fc/image/upload/v1697131198/talent_pad7l8.png
@@ -17,7 +17,7 @@ Right quote:
 https://res.cloudinary.com/ddeima5fc/image/upload/v1697131197/quote-close_frmyrf.png
 
 Heritage month:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131194/engineer_ekxkva.png
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697208437/engineer_jhqcaq.png
 
 Header Logo:
 https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/logo-header_qrmoov.png
@@ -35,10 +35,10 @@ Follow us:
 https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/follow_gd19vz.png
 
 Hiring:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/hiring_unkevn.jpg
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697208431/hiring_r8lcgz.jpg
 
 Professional:
-https://res.cloudinary.com/ddeima5fc/image/upload/v1697131193/professional_e9ri7o.jpg
+https://res.cloudinary.com/ddeima5fc/image/upload/v1697208431/professional_gbnk77.jpg
 
 Facebook icon:
 https://res.cloudinary.com/ddeima5fc/image/upload/v1697131192/icon-facebook_cs4dgt.png
